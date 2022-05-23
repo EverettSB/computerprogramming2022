@@ -35,7 +35,6 @@ GUI (Gameplay)
 Screenshot 2022-03-30 202221
 
 GUI (Endscreen)
-WYFSI
 
 Class Diagram
 Screenshot 2022-03-30 202354
