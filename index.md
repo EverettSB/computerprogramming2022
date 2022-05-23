@@ -31,6 +31,12 @@ source code
 [Cars.zip](https://github.com/EverettSB/computerprogramming2022/files/8755346/Cars.zip)
 
 
+### History of computer project
+<img width="734" alt="Screen Shot 2022-05-23 at 8 31 00 AM" src="https://user-images.githubusercontent.com/89047475/169842817-91f2610e-aa02-4a97-b239-71dccfc3dc41.png">
+
+soucre code 
+[Untitled document (1).docx](https://github.com/EverettSB/computerprogramming2022/files/8755411/Untitled.document.1.docx)
+
 
 
 # c++ projects
