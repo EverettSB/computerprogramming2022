@@ -5,6 +5,7 @@
 ## processing projects
 
 ### Calculator 
+
 Graphic Calculator
 <img width="498" alt="Screen Shot 2022-03-14 at 8 26 43 AM" src="https://user-images.githubusercontent.com/89047475/158193829-cbfd1beb-e1a8-4a21-8690-fb6258f2d83d.png">
 
@@ -14,6 +15,7 @@ source code
 # c++ projects
 
 ### Hardman
+
 Word game
 <img width="521" alt="Screen Shot 2022-05-23 at 8 05 34 AM" src="https://user-images.githubusercontent.com/89047475/169837981-d22e15b2-0c7c-4a60-8f69-6a8bcc12af69.png">
 
