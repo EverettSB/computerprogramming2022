@@ -14,13 +14,13 @@ Hangman-style game that switches who controls the game based on lives left
 hangman style game with graphics that shows images upon failure
 
 GUI (Start screen)
-727
+
 
 GUI (Gameplay)
-omg
+
 
 GUI (Endscreen)
-WYSI
+
 
 Class Diagram
 class
