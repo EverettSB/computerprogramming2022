@@ -14,7 +14,7 @@ source code
 # c++ projects
 
 ### Hardman
-Word gamne
+Word game
 <img width="521" alt="Screen Shot 2022-05-23 at 8 05 34 AM" src="https://user-images.githubusercontent.com/89047475/169837981-d22e15b2-0c7c-4a60-8f69-6a8bcc12af69.png">
 
 source code
