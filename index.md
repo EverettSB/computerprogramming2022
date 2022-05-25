@@ -1,4 +1,4 @@
-# Everett Bennett's programing Portfolio
+# Everett Syroid-Bennett's programing Portfolio
 
 2022 programming projects
 
